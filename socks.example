@@ -1,0 +1,7 @@
+# Socks 4 / Socks 5 file for ksb26
+# This file contains default socks4 and socks5 lists that you want to use
+#
+# Please read man page ( man ksb26 ) for format of socks ( remember that '#' as first character
+# is part of the format and not a comment )
+
+#Ssocks_ip:socks_port;socks_version|
